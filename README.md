@@ -1,5 +1,5 @@
-# Mathematica-CZI
-Mathematica package to read Zeiss CZI metadata
+# Wolfram-CZI
+Wolfram Language package to read Zeiss CZI metadata
 
 ## Usage
 ### 1. CZIMetaData
